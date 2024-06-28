@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactjsongit/static/css/main.ca16a074.css",
+    "main.js": "/reactjsongit/static/js/main.4c87e00a.js",
+    "index.html": "/reactjsongit/index.html",
+    "main.ca16a074.css.map": "/reactjsongit/static/css/main.ca16a074.css.map",
+    "main.4c87e00a.js.map": "/reactjsongit/static/js/main.4c87e00a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ca16a074.css",
+    "static/js/main.4c87e00a.js"
+  ]
+}
